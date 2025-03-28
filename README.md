@@ -24,7 +24,7 @@ Este projeto consiste em uma API REST para gerenciamento de despesas pessoais, u
 ### 1. Clonar o repositório
 
 ```sh
-git clone https://github.com/seu-usuario/expense-tracker-api.git
+git clone https://github.com/alfredolsn/expense-tracker-api.git
 cd expense-tracker-api
 ```
 
